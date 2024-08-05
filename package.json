@@ -1,0 +1,20 @@
+{
+  "name": "cookunity-challenge",
+  "description": "Challenge for CookUnity",
+  "private": true,
+  "author": {
+    "name": "Mariano Córdoba",
+    "email": "marianocordoba039@gmail.com"
+  },
+  "packageManager": "bun@1.1.21",
+  "scripts": {
+    "dev": "bun --filter '*' dev"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}

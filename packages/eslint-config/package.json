@@ -1,0 +1,14 @@
+{
+  "name": "@cookunity-challenge/eslint-config",
+  "description": "This package provides a shared ESLint configuration.",
+  "version": "0.0.0",
+  "private": true,
+  "files": [
+    "base.mjs"
+  ],
+  "devDependencies": {
+    "@stylistic/eslint-plugin": "^2.6.1",
+    "@typescript-eslint/parser": "^8.0.0",
+    "eslint": "^9.8.0"
+  }
+}

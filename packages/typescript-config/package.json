@@ -1,0 +1,6 @@
+{
+  "name": "@cookunity-challenge/typescript-config",
+  "description": "This package provides a shared TypeScript configuration.",
+  "version": "0.0.0",
+  "private": true
+}

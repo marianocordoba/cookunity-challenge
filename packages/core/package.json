@@ -1,0 +1,13 @@
+{
+  "name": "@cookunity-challenge/core",
+  "description": "This package provides the core functionality for the CookUnity Challenge project.",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@cookunity-challenge/eslint-config": "workspace:*",
+    "@cookunity-challenge/typescript-config": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.1.6"
+  }
+}
